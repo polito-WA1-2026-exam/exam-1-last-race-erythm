@@ -1,0 +1,28 @@
+.segment-scroll {
+  max-height: 340px;
+  overflow-y: auto;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  padding: 8px;
+}
+
+.segment-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 5px;
+}
+
+.segment-btn {
+  width: 100%;
+  text-align: center;
+  font-size: 0.85rem;
+  padding: 6px 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.segment-dash {
+  margin: 0 6px;
+  opacity: 0.5;
+}
