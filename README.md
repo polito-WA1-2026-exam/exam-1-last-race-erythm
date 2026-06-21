@@ -78,4 +78,4 @@ node seed.js
 | erfan.moghadasian | Erf@nmoghadasian1 |
 
 ## Use of AI Tools
-I used Cursor AI during the project, mainly for UI parts and to understand how sessions work with Passport and how to structure the route validation logic. I reviewed and adapted all generated code myself to ensure it matched the specification.
+I used Cursor AI during the project, mainly for UI parts and to understand how sessions work with Passport and how to structure the route validation logic. I reviewed and modified all generated code myself to ensure it matched the specification.
